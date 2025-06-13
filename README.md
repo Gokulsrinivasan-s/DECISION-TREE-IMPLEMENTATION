@@ -36,3 +36,9 @@ OUTCOME:
  Visualized the decision-making process.
  Allowed real-time prediction by accepting user inputs through a command-line interface.
 
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/886394b7-3eca-4350-9888-0975a16f7fae)
+![Image](https://github.com/user-attachments/assets/1a7bb7eb-0eb3-4037-bfdb-cd2701c9a40a)
+![Image](https://github.com/user-attachments/assets/64b3948b-0756-4f1d-a2bc-ece64f84549d)
